@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1710918140 source:e:\adminwork\tcg6223_cg\lab\test\cglab01.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	"CGLab01.hpp"
+
+1710918140 e:\adminwork\tcg6223_cg\lab\test\cglab01.hpp
+	"CGLabmain.hpp"
+	<string>
+	<vector>
+
+1710918140 e:\adminwork\tcg6223_cg\lab\test\cglabmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1711417145 source:e:\adminwork\tcg6223_cg\lab\test\cglabmain.cpp
+	"CGLabxx.hpp"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"CGLab01.hpp"
+
+1711418692 source:e:\adminwork\tcg6223_cg\lab\lab 01\cglab01.cpp
+	<GL/glut.h>
+	<string>
+	<fstream>
+	"CGLab01.hpp"
+
+1711419278 e:\adminwork\tcg6223_cg\lab\lab 01\cglab01.hpp
+	"CGLabmain.hpp"
+	<string>
+	<vector>
+
+1711419372 e:\adminwork\tcg6223_cg\lab\lab 01\cglabmain.hpp
+	<string>
+	<cmath>
+	<iostream>
+	<GL/glut.h>
+
+1711418531 source:e:\adminwork\tcg6223_cg\lab\lab 01\cglabmain.cpp
+	"CGLabxx.hpp"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	<cmath>
+	<GL/glut.h>
+	"CGLabmain.hpp"
+	"CGLab01.hpp"
+
