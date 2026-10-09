@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Minecraft_Blind_Box_Battle" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Minecraft_Blind_Box_Battle" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-Wall" />
+				</Compiler>
+				<Linker>
+					<Add library="opengl32" />
+					<Add library="glu32" />
+					<Add library="glut32" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="Minecraft_Blind_Box_Battle" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-Wall" />
+				</Compiler>
+				<Linker>
+					<Add library="opengl32" />
+					<Add library="glu32" />
+					<Add library="glut32" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="CGLabmain.cpp" />
+		<Unit filename="CGLabmain.hpp" />
+		<Unit filename="CGLabMinecraft.cpp" />
+		<Unit filename="CGLabMinecraft.hpp" />
+		<Unit filename="README.txt" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
