@@ -2,6 +2,14 @@
 
 A local two-player battle game built with **C++, OpenGL, and GLUT** for the TCG6223 Computer Graphics course. The project explores 3D rendering, character movement, combat, and interactive gameplay in a Minecraft-inspired arena.
 
+**Photo 1**
+
+![Game display 1](Photo/Display%201.png)
+
+**Photo 2**
+
+![Game display 2](Photo/Display%202.png)
+
 ## Features
 
 * Local two-player battles on one computer.
